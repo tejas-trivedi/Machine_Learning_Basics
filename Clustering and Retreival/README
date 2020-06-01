@@ -6,3 +6,4 @@ the distance metrics.
 LSH IMPEMENTATION:
 Locality Sensitive Hashing (LSH) provides for a fast, efficient approximate nearest neighbor search. The algorithm scales well with respect
 to the number of data points as well as dimensions.
+LSH can be a much better way to find the similarity among the documents. 
